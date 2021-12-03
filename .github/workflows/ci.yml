@@ -20,4 +20,4 @@ jobs:
         uses: ballerina-platform/ballerina-action/@slbeta5
         with:
           args:
-            build -c --skip-tests
+            build
