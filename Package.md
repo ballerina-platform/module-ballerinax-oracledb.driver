@@ -12,7 +12,7 @@ This Package bundles the latest OracleDB drivers so that the OracleDB connector 
 |Xmlparserv2 | **21.3.0.0** |
 
 
-> The above are released under the [Oracle Free Use Terms and Conditions](https://www.oracle.com/downloads/licenses/oracle-free-license.html). 
+> The above OracleDB drivers are released under the [Oracle Free Use Terms and Conditions](https://www.oracle.com/downloads/licenses/oracle-free-license.html). 
 
 ## Usage
 

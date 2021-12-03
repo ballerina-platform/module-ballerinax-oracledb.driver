@@ -1,8 +1,8 @@
 Ballerina OracleDB Driver Library
 ===================
 
-The OracleDB Driver library is one of the external library packages of the <a target="_blank" href="https://ballerina.io
-/"> Ballerina</a> language. 
+The OracleDB Driver library is one of the external library packages of the
+<a target="_blank" href="https://ballerina.io/">Ballerina</a> language. 
 
 This Package bundles the latest OracleDB drivers so that the OracleDB connector can be used in ballerina projects easily.
  
