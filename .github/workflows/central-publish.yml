@@ -23,7 +23,7 @@ jobs:
         uses: ballerina-platform/ballerina-action/@2201.0.0
         with:
           args:
-            build --skip-tests
+            build
 
       - name: Ballerina Pack
         uses: ballerina-platform/ballerina-action/@2201.0.0
