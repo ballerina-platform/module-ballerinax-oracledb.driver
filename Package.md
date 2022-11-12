@@ -7,7 +7,7 @@ This Package bundles the latest OracleDB drivers so that the OracleDB connector 
 | | Version |
 |:---|:---:|
 |Ballerina Language | **Swan Lake 2201.0.0** |
-|OracleDB Driver | **21.3.0.0** |
+|OracleDB Driver(ojdbc10) | **19.6.0.0** |
 |XDB | **21.3.0.0** |
 |Xmlparserv2 | **21.3.0.0** |
 
