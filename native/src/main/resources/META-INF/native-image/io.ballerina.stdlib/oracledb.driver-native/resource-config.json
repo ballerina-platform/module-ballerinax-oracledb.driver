@@ -3,10 +3,27 @@
     "includes": [
       {
         "pattern": "\\Qoracle/sql/converter_xcharset/lx20002.glb\\E"
+      },
+      {
+        "pattern":"\\Qoracle/jdbc/defaultConnectionProperties.properties\\E"
+      },
+      {
+        "pattern":"\\Qoracle/jdbc/driver/errorMap.xml\\E"
       }
     ]
   },
   "bundles": [
+    {
+      "name":"oracle.jdbc.driver.Messages",
+      "locales":[""]
+    },
+    {
+      "name":"oracle.net.jdbc.nl.mesg.NLSR",
+      "classNames":[
+        "oracle.net.jdbc.nl.mesg.NLSR",
+        "oracle.net.jdbc.nl.mesg.NLSR_en"
+      ]
+    },
     {
       "name": "oracle.net.mesg.Message",
       "locales": [

@@ -95,5 +95,35 @@
         "parameterTypes": []
       }
     ]
+  },
+  {
+    "name":"oracle.jdbc.driver.DiagnosabilityMXBean",
+    "queryAllPublicMethods":true
+  },
+  {
+    "name":"oracle.jdbc.driver.Message11",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.jdbc.driver.OracleDiagnosabilityMBean",
+    "queryAllPublicConstructors":true
+  },
+  {
+    "name":"oracle.jdbc.logging.annotations.Feature",
+    "methods":[{"name":"values","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.jdbc.logging.annotations.Supports",
+    "queriedMethods":[{"name":"value","parameterTypes":[] }]
+  },
+  {
+    "name":"oracle.jdbc.logging.runtime.TraceController",
+    "queryAllPublicMethods":true
+  },
+  {
+    "name":"oracle.sql.AnyDataFactory"
+  },
+  {
+    "name":"oracle.sql.TypeDescriptorFactory"
   }
 ]
