@@ -9,8 +9,7 @@ This Package bundles the latest OracleDB drivers so that the OracleDB connector 
 |Ballerina Language | **2201.7.0** |
 |OracleDB Driver(ojdbc10) |      **19.6.0.0**      |
 |XDB |      **21.3.0.0**      |
-|Xmlparserv2 |      **12.2.0.1
-**      |
+|Xmlparserv2 |      **12.2.0.1**      |
 
 
 > The above OracleDB drivers are released under the [Oracle Free Use Terms and Conditions](https://www.oracle.com/downloads/licenses/oracle-free-license.html). 
