@@ -12,7 +12,7 @@ distribution = "2201.7.0"
 graalvmCompatible = true
 
 [[platform.java17.dependency]]
-path = "./lib/ojdbc8-@oracledb.driver.version@.jar"
+path = "./lib/ojdbc11-@oracledb.driver.version@.jar"
 
 [[platform.java17.dependency]]
 path = "./lib/xdb-@oracle.xdb.version@.jar"

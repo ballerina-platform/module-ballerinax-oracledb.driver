@@ -12,7 +12,7 @@ distribution = "2201.7.0"
 graalvmCompatible = true
 
 [[platform.java17.dependency]]
-path = "./lib/ojdbc8-23.2.0.0.jar"
+path = "./lib/ojdbc11-23.2.0.0.jar"
 
 [[platform.java17.dependency]]
 path = "./lib/xdb-23.2.0.0.jar"
