@@ -12,13 +12,13 @@ distribution = "2201.7.0"
 graalvmCompatible = true
 
 [[platform.java17.dependency]]
-path = "./lib/ojdbc8-19.6.0.0.jar"
+path = "./lib/ojdbc8-23.2.0.0.jar"
 
 [[platform.java17.dependency]]
-path = "./lib/xdb-21.3.0.0.jar"
+path = "./lib/xdb-23.2.0.0.jar"
 
 [[platform.java17.dependency]]
-path = "./lib/xmlparserv2-12.2.0.1.jar"
+path = "./lib/xmlparserv2-23.2.0.0.jar"
 
 [[platform.java17.dependency]]
 groupId = "io.ballerina.stdlib"
