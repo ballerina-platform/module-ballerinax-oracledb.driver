@@ -8,19 +8,19 @@ repository = "https://github.com/ballerina-platform/module-ballerinax-oracledb.d
 license = ["Apache-2.0"]
 distribution = "2201.7.0"
 
-[platform.java11]
+[platform.java17]
 graalvmCompatible = true
 
-[[platform.java11.dependency]]
-path = "./lib/ojdbc8-19.6.0.0.jar"
+[[platform.java17.dependency]]
+path = "./lib/ojdbc11-23.2.0.0.jar"
 
-[[platform.java11.dependency]]
-path = "./lib/xdb-21.3.0.0.jar"
+[[platform.java17.dependency]]
+path = "./lib/xdb-23.2.0.0.jar"
 
-[[platform.java11.dependency]]
-path = "./lib/xmlparserv2-12.2.0.1.jar"
+[[platform.java17.dependency]]
+path = "./lib/xmlparserv2-23.2.0.0.jar"
 
-[[platform.java11.dependency]]
+[[platform.java17.dependency]]
 groupId = "io.ballerina.stdlib"
 artifactId = "oracledb.driver-native"
 version = "1.3.0"
