@@ -1,14 +1,5 @@
 [
    {
-      "name":"oracle.as.jmx.framework.PortableMBeanFactory"
-   },
-   {
-      "name":"oracle.i18n.text.OraBoot"
-   },
-   {
-      "name":"oracle.i18n.text.converter.CharacterConverterSJIS"
-   },
-   {
       "name":"oracle.jdbc.OracleDriver"
    },
    {
