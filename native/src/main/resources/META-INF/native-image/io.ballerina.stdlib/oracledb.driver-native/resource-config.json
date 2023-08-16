@@ -1,34 +1,32 @@
 {
-  "resources": {
-    "includes": [
+   "bundles":[
       {
-        "pattern": "\\Qoracle/sql/converter_xcharset/lx20002.glb\\E"
-      },
-      {
-        "pattern":"\\Qoracle/jdbc/defaultConnectionProperties.properties\\E"
-      },
-      {
-        "pattern":"\\Qoracle/jdbc/driver/errorMap.xml\\E"
+         "classNames":[
+            "oracle.net.mesg.NetErrorMessages"
+         ],
+         "name":"oracle.net.mesg.NetErrorMessages"
       }
-    ]
-  },
-  "bundles": [
-    {
-      "name":"oracle.jdbc.driver.Messages",
-      "locales":[""]
-    },
-    {
-      "name":"oracle.net.jdbc.nl.mesg.NLSR",
-      "classNames":[
-        "oracle.net.jdbc.nl.mesg.NLSR",
-        "oracle.net.jdbc.nl.mesg.NLSR_en"
+   ],
+   "resources":{
+      "includes":[
+         {
+            "pattern":"\\Qoracle/jdbc/defaultConnectionProperties.properties\\E"
+         },
+         {
+            "pattern":"\\Qoracle/sql/converter_xcharset/lx20001.glb\\E"
+         },
+         {
+            "pattern":"\\Qoracle/sql/converter_xcharset/lx20002.glb\\E"
+         },
+         {
+            "pattern":"\\Qoracle/sql/converter_xcharset/lx2001f.glb\\E"
+         },
+         {
+            "pattern":"\\Qoracle/sql/converter_xcharset/lx2002e.glb\\E"
+         },
+         {
+            "pattern":"\\Qoracle/sql/converter_xcharset/lx200b2.glb\\E"
+         }
       ]
-    },
-    {
-      "name": "oracle.net.mesg.Message",
-      "locales": [
-        ""
-      ]
-    }
-  ]
+   }
 }
