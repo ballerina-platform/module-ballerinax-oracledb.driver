@@ -5,12 +5,12 @@
 
 [ballerina]
 dependencies-toml-version = "2"
-distribution-version = "2201.8.0"
+distribution-version = "2201.11.0-20241117-133400-a3054b77"
 
 [[package]]
 org = "ballerinax"
 name = "oracledb.driver"
-version = "1.4.0"
+version = "1.4.1"
 modules = [
 	{org = "ballerinax", packageName = "oracledb.driver", moduleName = "oracledb.driver"}
 ]
