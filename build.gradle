@@ -70,9 +70,13 @@ subprojects {
 
     configurations {
         externalJars
+        jbalTools
     }
 
     dependencies {
+        jbalTools ("org.ballerinalang:jballerina-tools:${ballerinaLangVersion}") {
+            transitive = false
+        }
         externalJars (group: 'com.oracle.database.jdbc', name: 'ojdbc11', version: "${oracleDBDriverVersion}") {
             transitive = false
         }
