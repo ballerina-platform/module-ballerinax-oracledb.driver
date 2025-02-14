@@ -1,7 +1,7 @@
 [package]
 org = "ballerinax"
 name = "oracledb.driver"
-version = "1.4.1"
+version = "1.5.0"
 authors = ["Ballerina"]
 keywords = ["OracleDB"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-oracledb.driver"
@@ -23,5 +23,5 @@ path = "./lib/xmlparserv2-23.2.0.0.jar"
 [[platform.java21.dependency]]
 groupId = "io.ballerina.stdlib"
 artifactId = "oracledb.driver-native"
-version = "1.4.1"
-path = "../native/build/libs/oracledb.driver-native-1.4.1.jar"
+version = "1.5.0"
+path = "../native/build/libs/oracledb.driver-native-1.5.0-SNAPSHOT.jar"
