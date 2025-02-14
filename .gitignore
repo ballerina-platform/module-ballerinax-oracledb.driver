@@ -23,7 +23,8 @@
 hs_err_pid*
 
 # Target folder of ballerina project
-target
+target/
+ballerina/target/cache/tests_cache/test_suit.json
 
 # resources folder
 /resources/*
