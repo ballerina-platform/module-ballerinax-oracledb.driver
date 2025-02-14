@@ -38,7 +38,8 @@ hs_err_pid*
 
 # Build Files
 .gradle
-target
+target/
+ballerina/target/cache/tests_cache/test_suit.json
 build
 bin
 ./**/cache
