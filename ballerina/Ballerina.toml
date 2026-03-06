@@ -5,6 +5,7 @@ version = "1.5.1"
 authors = ["Ballerina"]
 keywords = ["OracleDB", "Vendor/Oracle", "Area/Database", "Type/Driver"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-oracledb.driver"
+icon = "icon.png"
 license = ["Apache-2.0"]
 distribution = "2201.11.0-20241117-133400-a3054b77"
 
