@@ -11,10 +11,6 @@ The OracleDB driver provides a reliable and high-performance connectivity to Ora
 - Secure communication with TLS and authentication
 - GraalVM compatible for native image builds
 
-## Package overview
-
-This Package bundles the latest OracleDB drivers so that the OracleDB connector can be used in ballerina projects easily.
-
 ## Compatibility
 
 | |        Version         |
